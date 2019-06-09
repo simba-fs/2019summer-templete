@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/simba-fs/2019winter-templete/issues"
   },
-  "homepage": "https://github.com/simba-fs/2019winter-templete#readme"
+  "homepage": "https://github.com/simba-fs/2019winter-templete#readme",
+  "dependencies": {
+    "simple": "github:simba-fs/simple"
+  }
 }
