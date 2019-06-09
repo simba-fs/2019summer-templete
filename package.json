@@ -1,0 +1,19 @@
+{
+  "name": "templete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://simba-fs@github.com/simba-fs/2019winter-templete.git"
+  },
+  "author": "simba.fs@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simba-fs/2019winter-templete/issues"
+  },
+  "homepage": "https://github.com/simba-fs/2019winter-templete#readme"
+}
