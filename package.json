@@ -1,23 +1,22 @@
 {
-  "name": "templete",
+  "name": "2019summer-templete",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-	"start": "node app.js",
-    "test": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://simba-fs@github.com/simba-fs/2019winter-templete.git"
+    "url": "git+https://github.com/simba-fs/2019summer-templete.git"
   },
-  "author": "simba.fs@gmail.com",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simba-fs/2019winter-templete/issues"
+    "url": "https://github.com/simba-fs/2019summer-templete/issues"
   },
-  "homepage": "https://github.com/simba-fs/2019winter-templete#readme",
+  "homepage": "https://github.com/simba-fs/2019summer-templete#readme",
   "dependencies": {
-    "simple": "github:simba-fs/simple"
+    "simply.js": "^1.3.4"
   }
 }
